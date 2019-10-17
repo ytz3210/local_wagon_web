@@ -1,0 +1,162 @@
+{
+    "message": "",
+    "result": {
+        "data": [
+            {
+                "id": 10532651,
+                "plateNo": "苏M10001",
+                "status": "1",
+                "velocity": "",
+                "direction": 30,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.259965, "lat": 39.855141 }
+            },
+            {
+                "id": 105651,
+                "plateNo": "苏M10005",
+                "status": "0",
+                "velocity": "",
+                "direction": 20,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.272038, "lat": 39.939281 }
+            },
+
+            {
+                "id": 4545,
+                "plateNo": "苏M10002",
+                "status": "0",
+                "velocity": "",
+                "direction": 50,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.368049, "lat": 39.833424 }
+            },
+            {
+                "id": 1056451,
+                "plateNo": "苏M10003",
+                "status": "0",
+                "velocity": "",
+                "direction": 90,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.504304, "lat": 39.879508 }
+            },
+            {
+                "id": 10561251,
+                "plateNo": "苏M99999",
+                "status": "0",
+                "velocity": "",
+                "direction": 20,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.272038, "lat": 39.939281 }
+            },
+            {
+                "id": 1052651,
+                "plateNo": "苏M10004",
+                "status": "0",
+                "velocity": "",
+                "direction": 120,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.419791, "lat": 39.991926 }
+            },
+            {
+                "id": 45425,
+                "plateNo": "苏M10006",
+                "status": "0",
+                "velocity": "",
+                "direction": 150,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 115.272038, "lat": 39.939281 }
+            },
+            {
+                "id": 10564551,
+                "plateNo": "苏M10007",
+                "status": "0",
+                "velocity": "",
+                "direction": 210,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.272038, "lat": 37.939281 }
+            },            {
+                "id": 10526551,
+                "plateNo": "苏M10008",
+                "status": "0",
+                "velocity": "",
+                "direction": 240,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 118.272038, "lat": 35.939281 }
+            },
+            {
+                "id": 45445,
+                "plateNo": "苏M10009",
+                "status": "0",
+                "velocity": "",
+                "direction": 290,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 119.95, "lat": 31.78 }
+            },
+            {
+                "id": 10536451,
+                "plateNo": "苏M10010",
+                "status": "0",
+                "velocity": "",
+                "direction": 300,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.272038, "lat": 32.939281 }
+            },            {
+                "id": 10522651,
+                "plateNo": "苏M10011",
+                "status": "0",
+                "velocity": "",
+                "direction": 350,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 116.272038, "lat": 34.939281 }
+            },
+            {
+                "id": 454145,
+                "plateNo": "苏M10012",
+                "status": "0",
+                "velocity": "",
+                "direction": 70,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 106.272038, "lat": 39.939281 }
+            },
+            {
+                "id": 105364511,
+                "plateNo": "苏M10013",
+                "status": "0",
+                "velocity": "",
+                "direction": 320,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": { "lng": 126.272038, "lat": 39.939281 }
+            },
+            {
+                "id": 101522651,
+                "plateNo": "苏M10000",
+                "status": "0",
+                "velocity": "",
+                "direction": 210,
+                "lineNo": "",
+                "company": "常州 xx运输有限公司",
+                "position": {"lng":111.48813922752319, "lat": 26.242076017806045}
+            }
+        ],
+        "pageSize": 10,
+        "pageNo": 0,
+        "totalPage": 1,
+        "totalCount": 5
+    },
+    "status": 200,
+    "timestamp": 1537079497645
+}

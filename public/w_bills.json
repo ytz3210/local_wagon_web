@@ -1,0 +1,89 @@
+{
+    "message": "",
+    "result": {
+        "data": [
+            {
+                "bookingNo": "APLU104594670",
+                "shipLine": "COSCO SHIPPING PEONY / 003E",
+                "wagonLines": {
+                    "苏M10005": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10000": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10001": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10002": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10003": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10004": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10007": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10006": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    }
+                }
+            },
+            {
+                "bookingNo": "APLU104994670",
+                "shipLine": "COSCO SHIPPING PEONY / 003E",
+                "wagonLines": {
+                    "苏M10008": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10009": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10010": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10012": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10013": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10014": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10017": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    },
+                    "苏M10016": {
+                        "keyNo": "sdfdswefw",
+                        "boxNo": "sdfwef"
+                    }
+                }
+            }
+        ],
+        "pageSize": 10,
+        "pageNo": 0,
+        "totalPage": 1,
+        "totalCount": 5
+    },
+    "status": 200,
+    "timestamp": 1537079497645
+}
